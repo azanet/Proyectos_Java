@@ -5,12 +5,12 @@ Proyectos en java
 https://github.com/azanet/Proyectos_Java.
 
 --
-Contributors
+##Contributors
 
 Azanet <azan3t(a)gmail(dot)com>
 
 --
-License
+#License
 
 All content of this repository (called Arduino) is under license: Creative Commons License
 This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.
